@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Custom_List</string>
+
+    <string name="dgina">Джина Лолобриджида</string>
+    <string name="katrina"> Катрин Денев</string>
+    <string name="monicab">Moника Белучи</string>
+    <string name="totuu">Oдри Tоту</string>
+    <string name="mersiee">Mишель Mерсье</string>
+    <string name="mkotar">Mарион Kотар</string>
+    <string name="name">имя</string>
+    <string name="age">возраст</string>
+    <string name="actris">Актрисы французского кино</string>
+</resources>
